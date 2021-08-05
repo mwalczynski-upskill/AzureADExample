@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OEs4yDZoT5gnznHZ46R3bh3jwC2WV+fro6WcCGaQ0ktl2jXaw13bea2obrVrFCfDEz3qvscOmYGAYUvppWCKyA==",
+  "dgSpecHash": "U75YjghxX1/tb1+Js0Kh79lxL0VRmOfC3o5I7Axt5H41MhhGkcaTw9FLI6gGpAliUELsa8pb1Tq27cboySamdw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\AzureADExample\\AzureADExample.SecondApi\\AzureADExample.SecondApi.csproj",
   "expectedPackageFiles": [

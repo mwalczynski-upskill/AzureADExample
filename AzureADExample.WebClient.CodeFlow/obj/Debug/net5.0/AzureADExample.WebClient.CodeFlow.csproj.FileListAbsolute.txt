@@ -44,6 +44,7 @@ D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\obj\Debug\net5.0\Az
 D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\obj\Debug\net5.0\ref\AzureADExample.WebClient.CodeFlow.dll
 D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\obj\Debug\net5.0\AzureADExample.WebClient.CodeFlow.pdb
 D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\obj\Debug\net5.0\AzureADExample.WebClient.CodeFlow.genruntimeconfig.cache
-D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\obj\Debug\net5.0\AzureADExample.WebClient.CodeFlow.csprojAssemblyReference.cache
 D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\bin\Debug\net5.0\IdentityModel.dll
 D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient.CodeFlow\obj\Debug\net5.0\AzureADExample.WebClient.CodeFlow.csproj.AssemblyReference.cache

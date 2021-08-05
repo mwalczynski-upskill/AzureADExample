@@ -16,7 +16,6 @@ D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\bin\Debug\net5.
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\obj\Debug\net5.0\AzureADExample.WebClient.ImplicitFlow.csprojAssemblyReference.cache
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\obj\Debug\net5.0\AzureADExample.WebClient.ImplicitFlow.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\obj\Debug\net5.0\AzureADExample.WebClient.ImplicitFlow.AssemblyInfoInputs.cache
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\obj\Debug\net5.0\AzureADExample.WebClient.ImplicitFlow.AssemblyInfo.cs
@@ -47,3 +46,5 @@ D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\obj\Debug\net5.
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\obj\Debug\net5.0\AzureADExample.WebClient.ImplicitFlow.genruntimeconfig.cache
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\bin\Debug\net5.0\IdentityModel.dll
 D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient.ImplicitFlow\obj\Debug\net5.0\AzureADExample.WebClient.ImplicitFlow.csproj.AssemblyReference.cache

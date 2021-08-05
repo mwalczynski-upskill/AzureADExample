@@ -7,7 +7,6 @@ D:\Projects\AzureADExample\AzureADExample.SecondApi\bin\Debug\net5.0\AzureADExam
 D:\Projects\AzureADExample\AzureADExample.SecondApi\bin\Debug\net5.0\AzureADExample.SecondApi.dll
 D:\Projects\AzureADExample\AzureADExample.SecondApi\bin\Debug\net5.0\ref\AzureADExample.SecondApi.dll
 D:\Projects\AzureADExample\AzureADExample.SecondApi\bin\Debug\net5.0\AzureADExample.SecondApi.pdb
-D:\Projects\AzureADExample\AzureADExample.SecondApi\obj\Debug\net5.0\AzureADExample.SecondApi.csprojAssemblyReference.cache
 D:\Projects\AzureADExample\AzureADExample.SecondApi\obj\Debug\net5.0\AzureADExample.SecondApi.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\AzureADExample\AzureADExample.SecondApi\obj\Debug\net5.0\AzureADExample.SecondApi.AssemblyInfoInputs.cache
 D:\Projects\AzureADExample\AzureADExample.SecondApi\obj\Debug\net5.0\AzureADExample.SecondApi.AssemblyInfo.cs
@@ -35,3 +34,4 @@ D:\Projects\AzureADExample\AzureADExample.SecondApi\bin\Debug\net5.0\Swashbuckle
 D:\Projects\AzureADExample\AzureADExample.SecondApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\AzureADExample\AzureADExample.SecondApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\AzureADExample\AzureADExample.SecondApi\obj\Debug\net5.0\AzureADExample.SecondApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\AzureADExample\AzureADExample.SecondApi\obj\Debug\net5.0\AzureADExample.SecondApi.csproj.AssemblyReference.cache

@@ -9,7 +9,6 @@ D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\ref\AzureAD
 D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\AzureADExample.WebClient.pdb
 D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\AzureADExample.WebClient.Views.dll
 D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\AzureADExample.WebClient.Views.pdb
-D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\AzureADExample.WebClient.csprojAssemblyReference.cache
 D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\AzureADExample.WebClient.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\AzureADExample.WebClient.AssemblyInfoInputs.cache
 D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\AzureADExample.WebClient.AssemblyInfo.cs
@@ -38,3 +37,11 @@ D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\ref\AzureAD
 D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\AzureADExample.WebClient.pdb
 D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\AzureADExample.WebClient.genruntimeconfig.cache
 D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\AzureADExample.WebClient.csproj.CopyComplete
+D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\AzureADExample\AzureADExample.WebClient\obj\Debug\net5.0\AzureADExample.WebClient.csproj.AssemblyReference.cache

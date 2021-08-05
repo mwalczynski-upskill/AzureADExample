@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADExample.B2CApiClient", "AzureADExample.ApiClient\AzureADExample.B2CApiClient.csproj", "{9A71C2A7-9E8A-40B6-9DF0-8FA34D105BEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureADExample.B2CApiClient", "AzureADExample.ApiClient\AzureADExample.B2CApiClient.csproj", "{9A71C2A7-9E8A-40B6-9DF0-8FA34D105BEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADExample.SecondApi", "AzureADExample.SecondApi\AzureADExample.SecondApi.csproj", "{88DE2B99-E9A7-4CEC-A1B3-0BC3A8C347F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureADExample.SecondApi", "AzureADExample.SecondApi\AzureADExample.SecondApi.csproj", "{88DE2B99-E9A7-4CEC-A1B3-0BC3A8C347F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADExample.FirstApi", "AzureADExample.FirstApi\AzureADExample.FirstApi.csproj", "{7DBF68E5-E1C9-45B2-BD22-3301895206FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureADExample.FirstApi", "AzureADExample.FirstApi\AzureADExample.FirstApi.csproj", "{7DBF68E5-E1C9-45B2-BD22-3301895206FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADExample.WebClient.ImplicitFlow", "AzureADExample.WebClient.ImplicitFlow\AzureADExample.WebClient.ImplicitFlow.csproj", "{4F4C860A-1062-4E0A-A911-B2540D722C2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureADExample.WebClient.ImplicitFlow", "AzureADExample.WebClient.ImplicitFlow\AzureADExample.WebClient.ImplicitFlow.csproj", "{4F4C860A-1062-4E0A-A911-B2540D722C2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADExample.WebClient.CodeFlow", "AzureADExample.WebClient.CodeFlow\AzureADExample.WebClient.CodeFlow.csproj", "{9BAC50BF-175E-4F6C-B503-A999B12AA0BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureADExample.WebClient.CodeFlow", "AzureADExample.WebClient.CodeFlow\AzureADExample.WebClient.CodeFlow.csproj", "{9BAC50BF-175E-4F6C-B503-A999B12AA0BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureADExample.WebClient", "AzureADExample.WebClient\AzureADExample.WebClient.csproj", "{EB9CCBCA-6173-4B9B-82BC-2D51C97C3F78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{9BAC50BF-175E-4F6C-B503-A999B12AA0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BAC50BF-175E-4F6C-B503-A999B12AA0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BAC50BF-175E-4F6C-B503-A999B12AA0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9CCBCA-6173-4B9B-82BC-2D51C97C3F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9CCBCA-6173-4B9B-82BC-2D51C97C3F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9CCBCA-6173-4B9B-82BC-2D51C97C3F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9CCBCA-6173-4B9B-82BC-2D51C97C3F78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

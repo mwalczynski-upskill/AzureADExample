@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dq8rOodz9IcaM9ZMC8ItWkYuCDCH3C6+RQSuiyEDpe3MTZqekDWX+sf3vCPsZIl9iL5vFxPyc+oyvx5zrw+KRQ==",
+  "dgSpecHash": "0RiAQaCZU3xqcxvKVnwUQCaOvr9S4LEXbPiJJW1phs4inZj+7kmbXray2evQe6ASq8nHLdZnLfbvEOcAKryzFA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\AzureADExample\\AzureADExample.ApiClient\\AzureADExample.B2CApiClient.csproj",
   "expectedPackageFiles": [

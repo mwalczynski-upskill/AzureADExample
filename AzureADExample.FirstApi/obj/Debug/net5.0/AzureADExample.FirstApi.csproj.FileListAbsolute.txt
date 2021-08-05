@@ -7,7 +7,6 @@ D:\Projects\AzureADExample\AzureADExample.FirstApi\bin\Debug\net5.0\AzureADExamp
 D:\Projects\AzureADExample\AzureADExample.FirstApi\bin\Debug\net5.0\AzureADExample.FirstApi.dll
 D:\Projects\AzureADExample\AzureADExample.FirstApi\bin\Debug\net5.0\ref\AzureADExample.FirstApi.dll
 D:\Projects\AzureADExample\AzureADExample.FirstApi\bin\Debug\net5.0\AzureADExample.FirstApi.pdb
-D:\Projects\AzureADExample\AzureADExample.FirstApi\obj\Debug\net5.0\AzureADExample.FirstApi.csprojAssemblyReference.cache
 D:\Projects\AzureADExample\AzureADExample.FirstApi\obj\Debug\net5.0\AzureADExample.FirstApi.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\AzureADExample\AzureADExample.FirstApi\obj\Debug\net5.0\AzureADExample.FirstApi.AssemblyInfoInputs.cache
 D:\Projects\AzureADExample\AzureADExample.FirstApi\obj\Debug\net5.0\AzureADExample.FirstApi.AssemblyInfo.cs
@@ -37,3 +36,4 @@ D:\Projects\AzureADExample\AzureADExample.FirstApi\bin\Debug\net5.0\Swashbuckle.
 D:\Projects\AzureADExample\AzureADExample.FirstApi\obj\Debug\net5.0\AzureADExample.FirstApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Projects\AzureADExample\AzureADExample.FirstApi\bin\Debug\net5.0\IdentityModel.dll
 D:\Projects\AzureADExample\AzureADExample.FirstApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\AzureADExample\AzureADExample.FirstApi\obj\Debug\net5.0\AzureADExample.FirstApi.csproj.AssemblyReference.cache
